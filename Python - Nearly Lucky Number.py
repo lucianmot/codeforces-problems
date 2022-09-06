@@ -1,5 +1,5 @@
 # Python - Nearly Lucky Number
-# https://codeforces.com/contest/110/problem/A 
+# https://codeforces.com/contest/110/problem/A
 
 n = str(input())
 
