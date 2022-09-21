@@ -1,5 +1,5 @@
 # Python - Jzzhu and Children
-# https://codeforces.com/contest/450/problem/A     
+# https://codeforces.com/contest/450/problem/A   
 
 import math;
  
