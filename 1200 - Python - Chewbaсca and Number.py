@@ -1,4 +1,5 @@
 # Python - Chewbaсca and Number
+# Rating - 1200
 # https://codeforces.com/problemset/problem/514/A
 
 number = input()
