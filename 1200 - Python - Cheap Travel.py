@@ -1,4 +1,5 @@
 # Python - Cheap Travel
+# Rating - 1200
 # https://codeforces.com/problemset/problem/466/A
 
 n, m, a, b = list(map(int, input().split(" ")))
