@@ -1,4 +1,5 @@
 # Python - HQ9+
+# Rating - 900
 # https://codeforces.com/problemset/problem/133/A
 
 a_string = str(input())
