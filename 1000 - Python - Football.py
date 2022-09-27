@@ -1,4 +1,5 @@
 # Python - Football
+# Rating - 1000
 # https://codeforces.com/problemset/problem/43/A
 
 from collections import Counter
