@@ -1,4 +1,5 @@
 # Python - Football 2
+# Rating - 900
 # https://codeforces.com/problemset/problem/96/A
 
 a_string = str(input())
