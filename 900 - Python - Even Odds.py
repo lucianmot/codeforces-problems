@@ -1,4 +1,5 @@
 # Python - Even Odds
+# Rating - 900
 # https://codeforces.com/problemset/problem/318/A
 
 import math
