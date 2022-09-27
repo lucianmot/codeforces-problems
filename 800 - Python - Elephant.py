@@ -1,4 +1,5 @@
 # Python - Elephant
+# Rating - 800
 # https://codeforces.com/contest/617/problem/A
 
 distance = int(input())
