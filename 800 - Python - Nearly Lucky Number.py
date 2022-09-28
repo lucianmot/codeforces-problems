@@ -1,4 +1,5 @@
 # Python - Nearly Lucky Number
+# Rating - 800
 # https://codeforces.com/contest/110/problem/A
 
 n = str(input())
