@@ -1,4 +1,5 @@
 # Python - In Search of an Easy Problem
+# Rating - 800
 # https://codeforces.com/problemset/problem/1030/A
 
 ignore = input()
