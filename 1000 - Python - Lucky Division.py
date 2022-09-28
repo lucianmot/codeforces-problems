@@ -1,4 +1,5 @@
 # Python - Lucky Division
+# Rating - 1000
 # https://codeforces.com/problemset/problem/122/A
 
 number = int(input())
