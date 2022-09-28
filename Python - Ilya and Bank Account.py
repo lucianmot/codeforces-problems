@@ -1,4 +1,5 @@
 # Python - Ilya and Bank Account
+# Rating - 900
 # https://codeforces.com/problemset/problem/313/A
 
 bankAcc = int(input())
