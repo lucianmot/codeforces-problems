@@ -1,4 +1,5 @@
 # Python - I Wanna Be the Guy
+# Rating - 800
 # https://codeforces.com/contest/469/problem/A
 
 n = int(input())
