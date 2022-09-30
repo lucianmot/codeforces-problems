@@ -1,4 +1,5 @@
 # Python - Jzzhu and Children
+# Rating - 1000
 # https://codeforces.com/contest/450/problem/A
 
 import math;
