@@ -1,5 +1,5 @@
 # Python - Petya and Strings
-# https://codeforces.com/problemset/problem/112/A   
+# https://codeforces.com/problemset/problem/112/A  
 
 string_1 = input().lower()
 string_2 = input().lower()
