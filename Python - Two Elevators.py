@@ -1,5 +1,5 @@
 # Python - Two Elevators
-# https://codeforces.com/contest/1729/problem/A  
+# https://codeforces.com/contest/1729/problem/A
 
 testCases = int(input())
 
